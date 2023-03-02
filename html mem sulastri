@@ -1,0 +1,55 @@
+<!DOCTYPE html> 
+<!--Bagian kepala text-->
+<head>
+    <title>edi 2ti5</title>
+</head>
+<!--Menambah Font Di html-->
+<style>  body {
+    font-family: Arial, sans-serif;
+  }
+  </style>
+  <!--Body dari text-->
+<body>
+    <!--garis agak tidak dempit-->
+    <p>Ini adalah paragraf 1</p>
+    <p>Ini adalah paragraf 2</p>
+    <p>Ini adalah paragraf 3</p>
+</body>
+<p> KFC atau Kentucky Fried Chicken adalah sebuah jaringan 
+    restoran cepat saji yang terkenal dengan ayam gorengnya. 
+    Didirikan pada tahun 1930 di Louisville, Kentucky oleh 
+    Colonel Harland Sanders, KFC sekarang memiliki ribuan 
+    restoran di seluruh dunia dan menjadi salah satu merek 
+    makanan terkenal di dunia.
+
+</p>
+<!--untuk menambah paragraf/ednline-->
+<h1 style="color : #00ffb7;">Menu KFC selain ayam goreng 
+    juga mencakup sisi-sisi seperti kentang goreng, kol goreng, 
+    dan biskuit, serta minuman seperti soda dan teh. KFC terkenal 
+    dengan bumbu rahasia 11 rempah-rempah yang 
+    digunakan dalam resep ayam gorengnya.</h1>
+<body>
+    <!--garis rapi dan dempit-->
+    ini adalah baris ke 4 <br>
+    ini adalah baris ke 5 <br>
+    ini adalah baris ke 6 <br>
+    ini adalah baris ke 6 <br>
+    ini adalah baris ke 7 <br>
+</body>
+<body>
+    <!--Menambah warna di text & membuat ukuran paragraf jadi semakin mengecil-->
+    <h1 style="color: #FF0000;">Contoh teks merah</h1>
+    <h2 style="color: #38f908;">Contoh teks hijau</h2>
+    <h3 style="color: #4800ff;">Contoh teks biru</h3>
+    <h4 style="color: #ff00d0;">Contoh teks ping</h4>
+
+
+</body>
+<body>
+    <!--Menambah gambar-->
+  <h1>Gambar Random</h1>
+  <img src="random.jpeg" alt="gambar buah buahan">
+</body>
+
+</html>
